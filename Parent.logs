@@ -1,0 +1,12 @@
+18:36:13,535  INFO devpinoyLogger<strong>{1}</strong>:34 - Rest Assured Project Assignment TC01 validations start!
+18:36:15,773  INFO devpinoyLogger<strong>{1}</strong>:46 - {"success":1,"error":[],"data":{"access_token":"dee15c9f4c6839afc2664291640c511b85e84378","expires_in":86400,"token_type":"Bearer"}}
+18:36:16,078  INFO devpinoyLogger<strong>{1}</strong>:50 - dee15c9f4c6839afc2664291640c511b85e84378
+18:36:16,078  INFO devpinoyLogger<strong>{1}</strong>:52 - Rest Assured Project Assignment TC01 validations end!
+18:36:16,084  INFO devpinoyLogger<strong>{1}</strong>:58 - Rest Assured Project Assignment TC02 validations start!
+18:36:16,983  INFO devpinoyLogger<strong>{1}</strong>:67 - Assertion is done to validate the status code and admin username
+18:36:18,655  INFO devpinoyLogger<strong>{1}</strong>:90 - Assertion is done to validate the status code and admin username
+18:36:18,655  INFO devpinoyLogger<strong>{1}</strong>:91 - Rest Assured Project Assignment TC02 validations end!
+18:36:18,664  INFO devpinoyLogger<strong>{1}</strong>:97 - Rest Assured Project Assignment TC03 validations start!
+18:36:19,457  INFO devpinoyLogger<strong>{1}</strong>:107 - Assertion is done to validate the status code
+18:36:21,315  INFO devpinoyLogger<strong>{1}</strong>:116 - Assertion is done to validate the status code and response header
+18:36:21,315  INFO devpinoyLogger<strong>{1}</strong>:117 - Rest Assured Project Assignment TC03 validations end!

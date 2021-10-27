@@ -1,0 +1,12 @@
+27/10/2021 18:36:13 devpinoyLogger Rest Assured Project Assignment TC01 validations start!
+27/10/2021 18:36:15 devpinoyLogger {"success":1,"error":[],"data":{"access_token":"dee15c9f4c6839afc2664291640c511b85e84378","expires_in":86400,"token_type":"Bearer"}}
+27/10/2021 18:36:16 devpinoyLogger dee15c9f4c6839afc2664291640c511b85e84378
+27/10/2021 18:36:16 devpinoyLogger Rest Assured Project Assignment TC01 validations end!
+27/10/2021 18:36:16 devpinoyLogger Rest Assured Project Assignment TC02 validations start!
+27/10/2021 18:36:16 devpinoyLogger Assertion is done to validate the status code and admin username
+27/10/2021 18:36:18 devpinoyLogger Assertion is done to validate the status code and admin username
+27/10/2021 18:36:18 devpinoyLogger Rest Assured Project Assignment TC02 validations end!
+27/10/2021 18:36:18 devpinoyLogger Rest Assured Project Assignment TC03 validations start!
+27/10/2021 18:36:19 devpinoyLogger Assertion is done to validate the status code
+27/10/2021 18:36:21 devpinoyLogger Assertion is done to validate the status code and response header
+27/10/2021 18:36:21 devpinoyLogger Rest Assured Project Assignment TC03 validations end!

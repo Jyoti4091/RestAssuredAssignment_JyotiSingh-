@@ -1,0 +1,55 @@
+{
+  "firstname": "DemoProject",
+  "lastname": "UserProject",
+  "email": "nash1@vipmail..hu",
+  "password": "password123",
+  "confirm": "password123",
+  "telephone": "1-544-754-3010",
+  "fax": "1-544-754-3010",
+  "newsletter": "1",
+  "status": "1",
+  "approved": "1",
+  "safe": "1",
+  "customer_group_id": "1",
+  "custom_field": {
+    "1": "1985-02-01",
+    "2": "2"
+  },
+  "address": [
+    {
+      "firstname": "DemoTest",
+      "lastname": "UserTest",
+      "company": "XYZ LTD.",
+      "city": "Berlin",
+      "address_1": "Demo street",
+      "country_id": "81",
+      "postcode": "1111",
+      "zone_id": "1256",
+      "address_2": "Long street 33",
+      "address_id": "10",
+      "default": "1",
+      "custom_field": {
+        "3": "https://rest-api.upskills.in"
+      }
+    }
+  ],
+  "affiliate": {
+    "company": "company",
+    "website": "http://demo.com",
+    "tracking": "Tracking number",
+    "commission": "3",
+    "tax": "99998888",
+    "cheque": "Demo",
+    "paypal": "demo@demo.com",
+    "bank_name": "Bank Name",
+    "bank_branch_number": "ABA/BSB number (Branch Number)",
+    "bank_swift_code": "SWIFT Code",
+    "bank_account_name": "Account Name",
+    "bank_account_number": "Account Number",
+    "status": "1",
+    "payment": "paypal",
+    "custom_field": {
+      "1": "custom field"
+    }
+  }
+}
